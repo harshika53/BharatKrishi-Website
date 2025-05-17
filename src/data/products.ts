@@ -38,7 +38,7 @@ export const allProducts = [
   { id: '32', name: 'Jackfruit', price: 80, unit: 'kg', category: 'fruits', image: 'https://images.unsplash.com/photo-1655886169732-a49e75c96e6c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
   
   // Grains
-  { id: '33', name: 'Rice', price: 60, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1568347355280-d33fce3ed9da?w=600&auto=format&fit=crop' },
+  { id: '33', name: 'Rice', price: 60, unit: 'kg', category: 'grains', image: 'https://i.pinimg.com/736x/d0/5d/b9/d05db98c905f7b03c731ba78308a3261.jpg' },
   { id: '34', name: 'Wheat', price: 40, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1603063049910-f0c5dc257728?w=600&auto=format&fit=crop' },
   { id: '35', name: 'Oats', price: 90, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1585996559731-a2986599cfd0?w=600&auto=format&fit=crop' },
   { id: '36', name: 'Barley', price: 70, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1523577211656-8c6cc0c4ec46?w=600&auto=format&fit=crop' },
