@@ -20,7 +20,7 @@ const About = () => {
             
             <div className="mb-12">
               <img 
-                src="/placeholder.svg" 
+                src="https://media.istockphoto.com/id/503646746/photo/farmer-spreading-fertilizer-in-the-field-wheat.webp?a=1&b=1&s=612x612&w=0&k=20&c=BnR0YEwUlQ7xXQhC3CRce04lqQv6pLWbvS076HCw4DI=" 
                 alt="Farmers in field" 
                 className="w-full h-64 object-cover rounded-lg mb-6"
               />
