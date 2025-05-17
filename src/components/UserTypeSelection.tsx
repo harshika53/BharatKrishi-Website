@@ -20,8 +20,8 @@ const UserTypeSelection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <Link to="/buyer-signup" className="block">
             <div className="border rounded-lg p-4 text-center hover:border-brandgreen hover:shadow-md transition-all cursor-pointer">
-              <div className="bg-orange-100 rounded-full w-20 h-20 mx-auto mb-3 flex items-center justify-center">
-                <img src="https://i.pinimg.com/736x/2b/f7/32/2bf7324112ed5d9e7fc26113d2bff7eb.jpg" alt="Buyer" className="w-12 h-12" />
+              <div className="w-20 h-20 mx-auto mb-3 flex items-center justify-center">
+                <img src="https://i.pinimg.com/736x/2b/f7/32/2bf7324112ed5d9e7fc26113d2bff7eb.jpg" alt="Buyer" className="w-20 h-20 rounded-full object-cover" />
               </div>
               <h3 className="font-medium">Buyer</h3>
             </div>
@@ -29,8 +29,8 @@ const UserTypeSelection = () => {
           
           <Link to="/farmer-signup" className="block">
             <div className="border rounded-lg p-4 text-center hover:border-brandgreen hover:shadow-md transition-all cursor-pointer">
-              <div className="bg-green-100 rounded-full w-20 h-20 mx-auto mb-3 flex items-center justify-center">
-                <img src="https://i.pinimg.com/736x/5f/fe/c0/5ffec07ae6b545b6a22ae2a72801756e.jpg" alt="Farmer" className="w-12 h-12" />
+              <div className="w-20 h-20 mx-auto mb-3 flex items-center justify-center">
+                <img src="https://i.pinimg.com/736x/5f/fe/c0/5ffec07ae6b545b6a22ae2a72801756e.jpg" alt="Farmer" className="w-20 h-20 rounded-full object-cover" />
               </div>
               <h3 className="font-medium">Farmer</h3>
             </div>
@@ -38,8 +38,8 @@ const UserTypeSelection = () => {
           
           <Link to="/admin-signup" className="block col-span-1 md:col-span-2 max-w-xs mx-auto">
             <div className="border rounded-lg p-4 text-center hover:border-brandgreen hover:shadow-md transition-all cursor-pointer">
-              <div className="bg-blue-100 rounded-full w-20 h-20 mx-auto mb-3 flex items-center justify-center">
-                <img src="https://i.pinimg.com/736x/b5/87/66/b5876617ab1ca0d46ec3a8c375626e20.jpg" alt="Admin" className="w-12 h-12" />
+              <div className="w-20 h-20 mx-auto mb-3 flex items-center justify-center">
+                <img src="https://i.pinimg.com/736x/b5/87/66/b5876617ab1ca0d46ec3a8c375626e20.jpg" alt="Admin" className="w-20 h-20 rounded-full object-cover" />
               </div>
               <h3 className="font-medium">Admin</h3>
             </div>
