@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from "@/components/ui/button";
@@ -10,21 +9,27 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { useCart } from '@/context/CartContext';
+import logo from '@/assets/logo.png'; // ✅ Import logo from assets folder
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const { totalItems } = useCart();
-  
+
   return (
     <header className="sticky top-0 z-50 bg-white border-b shadow-sm">
       <div className="container flex items-center justify-between h-16 px-4 mx-auto md:px-6">
         <Link to="/" className="flex items-center space-x-2">
-          <div className="w-10 h-10 bg-brandgreen rounded-full flex items-center justify-center">
-            <span className="text-white font-bold text-lg">BK</span>
-          </div>
-          <span className="font-bold text-xl md:text-2xl text-brandgreen-dark">BharatKrishi</span>
+          {/* ✅ Logo image instead of BK initials */}
+          <img
+            src={logo}
+            alt="BharatKrishi Logo"
+            className="w-20 h-20 md:w-24 md:h-24 object-contain"
+          />
+          <span className="font-bold text-xl md:text-2xl text-brandgreen-dark">
+            BharatKrishi
+          </span>
         </Link>
-        
+
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-6">
           <Link to="/" className="text-gray-600 hover:text-brandgreen transition-colors">Home</Link>
@@ -48,7 +53,7 @@ const Header = () => {
             </DropdownMenuContent>
           </DropdownMenu>
         </nav>
-        
+
         <div className="flex items-center space-x-4">
           <Link to="/cart" className="text-gray-600 hover:text-brandgreen transition-colors relative">
             <ShoppingCart className="h-6 w-6" />
@@ -68,16 +73,13 @@ const Header = () => {
               Sign Up
             </Button>
           </Link>
-          
-          <button
-            className="md:hidden"
-            onClick={() => setIsMenuOpen(!isMenuOpen)}
-          >
+
+          <button className="md:hidden" onClick={() => setIsMenuOpen(!isMenuOpen)}>
             {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
           </button>
         </div>
       </div>
-      
+
       {/* Mobile Navigation */}
       {isMenuOpen && (
         <div className="md:hidden bg-white border-b shadow-sm">
