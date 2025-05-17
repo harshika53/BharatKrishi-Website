@@ -50,17 +50,17 @@ export const allProducts = [
   { id: '42', name: 'Bhagar', price: 80, unit: 'kg', category: 'grains', image: 'https://5.imimg.com/data5/ANDROID/Default/2024/7/436481700/AB/RI/ME/10889368/product-jpeg-500x500.jpg' },
   
   // Pulses
-  { id: '43', name: 'Toor Dal', price: 120, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1612257997847-6eb011d44dc1?w=600&auto=format&fit=crop' },
-  { id: '44', name: 'Moong Dal', price: 140, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1590679362108-48d08061c641?w=600&auto=format&fit=crop' },
-  { id: '45', name: 'Chana Dal', price: 100, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1611575330633-551252bafad7?w=600&auto=format&fit=crop' },
-  { id: '46', name: 'Urad Dal', price: 150, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1546554137-f86b9593a222?w=600&auto=format&fit=crop' },
-  { id: '47', name: 'Masoor Dal', price: 130, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1622599511051-16f55a1234d0?w=600&auto=format&fit=crop' },
-  { id: '48', name: 'Rajma', price: 160, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?w=600&auto=format&fit=crop' },
-  { id: '49', name: 'Kabuli Chana', price: 180, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1614961233913-a5113a4a34ed?w=600&auto=format&fit=crop' },
-  { id: '50', name: 'Kala Chana', price: 140, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1610725664285-7c022353dd1c?w=600&auto=format&fit=crop' },
-  { id: '51', name: 'Moth Beans', price: 200, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1611882850848-d8e7845de13a?w=600&auto=format&fit=crop' },
-  { id: '52', name: 'Moong Mogar', price: 190, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1557072156-7dd42ebec3c5?w=600&auto=format&fit=crop' },
-  { id: '53', name: 'Kali Dal', price: 170, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1615485500704-8e990f9027d8?w=600&auto=format&fit=crop' },
+  { id: '43', name: 'Toor Dal', price: 120, unit: 'kg', category: 'pulses', image: 'https://i.pinimg.com/736x/38/53/30/3853304fd3e84f43a94590f4e11126d5.jpg' },
+  { id: '44', name: 'Moong Dal', price: 140, unit: 'kg', category: 'pulses', image: 'https://i.pinimg.com/736x/3c/1c/6f/3c1c6f4866ecab4aeede11f506b3bc25.jpg' },
+  { id: '45', name: 'Chana Dal', price: 100, unit: 'kg', category: 'pulses', image: 'https://media.istockphoto.com/id/2160775869/photo/image-of-dried-yellow-split-pea-chickpea-chana-dal-lentils-in-white-ceramic-bowl-surrounded.webp?a=1&b=1&s=612x612&w=0&k=20&c=40pf3uCjCp4f9xbBlO6dIVgSwf-yK5Q2giLJ5l5OdAU=' },
+  { id: '46', name: 'Urad Dal', price: 150, unit: 'kg', category: 'pulses', image: 'https://media.istockphoto.com/id/1217607996/photo/split-white-urad-dal-vigna-mungo-beans-in-a-silver-bowl-on-wooden-old-table-rustic-style.webp?a=1&b=1&s=612x612&w=0&k=20&c=5R6T6bGDsKnzLkocdo4_YnMvXHXLnebfwallF8Dp9-s=' },
+  { id: '47', name: 'Masoor Dal', price: 130, unit: 'kg', category: 'pulses', image: 'https://i.pinimg.com/736x/02/bd/1c/02bd1c705c9676a9a375c1eeb210f176.jpg' },
+  { id: '48', name: 'Rajma', price: 160, unit: 'kg', category: 'pulses', image: 'https://i.pinimg.com/736x/ec/5c/c5/ec5cc52f268253a642f1c1e95af3208f.jpg' },
+  { id: '49', name: 'Kabuli Chana', price: 180, unit: 'kg', category: 'pulses', image: 'https://i.pinimg.com/736x/c6/e7/fb/c6e7fb2aec7667bc0fc7fb5c6953896c.jpg' },
+  { id: '50', name: 'Kala Chana', price: 140, unit: 'kg', category: 'pulses', image: 'https://i.pinimg.com/736x/22/93/0b/22930b821d08f3cd8b46c615d3a22139.jpg' },
+  { id: '51', name: 'Moth Beans', price: 200, unit: 'kg', category: 'pulses', image: 'https://media.istockphoto.com/id/2160782009/photo/image-of-pile-of-moth-beans-matki-black-eyed-beans-mixed-dried-legumes-green-orange-dal.webp?a=1&b=1&s=612x612&w=0&k=20&c=1wngrakM7NAZDkyU4YCUDGRa6U5WOXho_utwQWgAd6k=' },
+  { id: '52', name: 'Moong Mogar', price: 190, unit: 'kg', category: 'pulses', image: 'https://i.pinimg.com/736x/4b/8d/9a/4b8d9aadd12a54f32e497829b10a956c.jpg' },
+  { id: '53', name: 'Kali Dal', price: 170, unit: 'kg', category: 'pulses', image: 'https://media.istockphoto.com/id/1216151500/photo/split-black-lentil-also-know-as-black-gram-black-urad-dal-vigna-mungo-urad-bean-in-hand.webp?a=1&b=1&s=612x612&w=0&k=20&c=IEirehkZ2E8jhC5kH6wusks0CTzBUNA9I818YCraBDA=' },
   
   // Spices
   { id: '54', name: 'Turmeric', price: 200, unit: 'kg', category: 'spices', image: 'https://i.pinimg.com/736x/1a/63/7f/1a637f36d14549465c4322155ff176da.jpg' },
