@@ -39,7 +39,8 @@ By connecting farmers directly with buyers, we help improve farmers’ incomes a
 | **React**      | Component-based UI library                    |
 | **TypeScript** | Strongly typed JavaScript                    |
 | **Tailwind CSS** | Utility-first CSS framework                  |
-| **shadcn/ui**  | Beautiful, accessible UI components           |
+| **shadcn/ui**  | Beautiful, accessible UI components    
+| **Vercel**     |  Deployment of website                         |
 
 ---
 
