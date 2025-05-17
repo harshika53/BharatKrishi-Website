@@ -1,5 +1,5 @@
 
-# 🌾 BharatKrishi: Empowering Farmers through Digital Connectivity
+# 🌾 BharatKrishi
 
 **BharatKrishi** is a digital platform designed to bridge the gap between farmers and buyers across the globe. The platform aims to empower farmers, ensure fair pricing, and promote sustainable agricultural practices through a transparent and secure online marketplace.
 By connecting farmers directly with buyers, we help improve farmers’ incomes and provide buyers with access to fresh, authentic farm produce straight from the source.
