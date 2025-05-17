@@ -12,7 +12,7 @@ interface Category {
 
 const categories: Category[] = [
   { id: 'vegetables', name: 'Vegetables', icon: 'https://www.kuvingsusa.com/cdn/shop/articles/kuvings-blog-vegetables.png?v=1723582598' },
-  { id: 'grains', name: 'Fruits', icon: 'https://healthnewshub.org/wp-content/uploads/2022/10/Fruit-e1664894335635.jpg' },
+  { id: 'fruits', name: 'Fruits', icon: 'https://healthnewshub.org/wp-content/uploads/2022/10/Fruit-e1664894335635.jpg' },
   { id: 'grains', name: 'Grains', icon: 'https://hips.hearstapps.com/hmg-prod/images/gettyimages-611609590-6627de2d8c0bb.jpg' },
   { id: 'pulses', name: 'Pulses', icon: 'https://cdn.shopaccino.com/refresh/articles/dal-pulse-745535_l.jpg?v=531' },
   { id: 'spices', name: 'Spices', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMW3gy7PwZty2UC1vDttn-CKF4XOV4khbbRQ&s' },
