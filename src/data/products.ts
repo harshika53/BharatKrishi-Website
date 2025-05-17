@@ -82,13 +82,13 @@ export const allProducts = [
   { id: '70', name: 'Kalonji', price: 480, unit: 'kg', category: 'spices', image: 'https://i.pinimg.com/736x/27/4a/81/274a81e516f5b7c2046dac88518b7610.jpg' },
   
   // Dairy
-  { id: '71', name: 'Milk', price: 50, unit: 'liter', category: 'dairy', image: 'https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600&auto=format&fit=crop' },
-  { id: '72', name: 'Yogurt', price: 40, unit: 'kg', category: 'dairy', image: 'https://images.unsplash.com/photo-1584278773680-8d5c15f82240?w=600&auto=format&fit=crop' },
-  { id: '73', name: 'Cheese', price: 300, unit: 'kg', category: 'dairy', image: 'https://images.unsplash.com/photo-1589881133595-a3c085cb731d?w=600&auto=format&fit=crop' },
-  { id: '74', name: 'Butter', price: 400, unit: 'kg', category: 'dairy', image: 'https://images.unsplash.com/photo-1589985270958-abc1e03bc307?w=600&auto=format&fit=crop' },
-  { id: '75', name: 'Paneer', price: 320, unit: 'kg', category: 'dairy', image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=600&auto=format&fit=crop' },
-  { id: '76', name: 'Ghee', price: 600, unit: 'kg', category: 'dairy', image: 'https://images.unsplash.com/photo-1620041318639-de6d3eea1f04?w=600&auto=format&fit=crop' },
-  { id: '77', name: 'Curd', price: 60, unit: 'kg', category: 'dairy', image: 'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=600&auto=format&fit=crop' },
-  { id: '78', name: 'Khoya', price: 350, unit: 'kg', category: 'dairy', image: 'https://images.unsplash.com/photo-1574603302783-67f3eb3fa1ed?w=600&auto=format&fit=crop' },
-  { id: '79', name: 'Buttermilk', price: 25, unit: 'liter', category: 'dairy', image: 'https://images.unsplash.com/photo-1619895102255-48985f4893a5?w=600&auto=format&fit=crop' },
+  { id: '71', name: 'Milk', price: 50, unit: 'liter', category: 'dairy', image: 'https://media.istockphoto.com/id/1431097905/photo/selling-milk-on-the-street-in-roorkee.webp?a=1&b=1&s=612x612&w=0&k=20&c=ED7xVHrWP9BEi9_gquyQLC_FzV2PHwsRVVvL-9NoTr0=' },
+  { id: '72', name: 'Yogurt', price: 40, unit: 'kg', category: 'dairy', image: 'https://media.istockphoto.com/id/154961206/photo/white-ceramic-bowl-of-yogurt-on-a-wooden-table.webp?a=1&b=1&s=612x612&w=0&k=20&c=pEsCnSu7-JMumaui1lmf-NnqzhYeWIHJWJ0gG5aAxFs=' },
+  { id: '73', name: 'Cheese', price: 300, unit: 'kg', category: 'dairy', image: 'https://media.istockphoto.com/id/2198975905/photo/a-piece-of-sliced-hard-mature-cheese-in-close-up.jpg?s=612x612&w=0&k=20&c=-AMtOyowRIme9os-T5YRwmHYR8HL-8TWaDdlZLc57_s=' },
+  { id: '74', name: 'Butter', price: 400, unit: 'kg', category: 'dairy', image: 'https://media.istockphoto.com/id/1338222224/photo/butter-blocks-and-pieces-on-wooden-table-copy-space.webp?a=1&b=1&s=612x612&w=0&k=20&c=qedPsixhzImmB5Df7SyA8qV0lh1v4c-PhTU-F49dP8s=' },
+  { id: '75', name: 'Paneer', price: 320, unit: 'kg', category: 'dairy', image: 'https://i.pinimg.com/736x/c9/81/8c/c9818cfcab1ee7f09adc5b931c863803.jpg' },
+  { id: '76', name: 'Ghee', price: 600, unit: 'kg', category: 'dairy', image: 'https://i.pinimg.com/736x/32/35/b4/3235b4299bb88479ba2b6a93758cc227.jpg' },
+  { id: '77', name: 'Curd', price: 60, unit: 'kg', category: 'dairy', image: 'https://media.istockphoto.com/id/1384591396/photo/closeup-of-homemade-dahi-or-curd-in-an-earthen-bowl-with-spoon-on-burlap-fabric-in-vertical.webp?a=1&b=1&s=612x612&w=0&k=20&c=IL0KRhRBpYD5tReyfIiKu6wfRxeLa4e7Efo4i31tO2Y=' },
+  { id: '78', name: 'Khoya', price: 350, unit: 'kg', category: 'dairy', image: 'https://i.pinimg.com/736x/de/1a/5d/de1a5d985d6ffae263063dae11c2892a.jpg' },
+  { id: '79', name: 'Buttermilk', price: 25, unit: 'liter', category: 'dairy', image: 'https://media.istockphoto.com/id/1147734167/photo/spiced-buttermilk-indian-traditional-summer-drink.webp?a=1&b=1&s=612x612&w=0&k=20&c=7TUgtuEWjxcL42nUbkGfwQoszD1WTDKSqbXPK4fg5Z4=' },
 ];
