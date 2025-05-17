@@ -24,7 +24,7 @@ const HeroSection = () => {
           </div>
           <div className="md:w-1/2 flex justify-center">
             <img 
-              src="/placeholder.svg" 
+              src="https://media.istockphoto.com/id/1314472273/photo/businessman-using-laptop-and-explaining-to-rural-farmer.webp?a=1&b=1&s=612x612&w=0&k=20&c=GpZyb_uuHnXvo9cB-enTSKSKeGHFxBNwWqBnwidh41g=" 
               alt="Farmer and Buyer" 
               className="max-w-full md:max-w-md rounded-lg shadow-lg"
             />
