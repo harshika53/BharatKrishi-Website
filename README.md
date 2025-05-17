@@ -53,4 +53,4 @@ By connecting farmers directly with buyers, we help improve farmers’ incomes a
 
 ## 🤝 Contribution
 
-Contributions are welcome! If you're passionate about agri-tech, open-source, or rural empowerment, feel
+Contributions are welcome! If you're passionate about agri-tech, open-source, or rural empowerment, feel free to fork the repo and submit a pull request.
