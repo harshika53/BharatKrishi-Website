@@ -1,5 +1,6 @@
 
 import { Link } from 'react-router-dom';
+import logo from '@/assets/logo.png';
 
 const Footer = () => {
   return (
@@ -8,9 +9,11 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-10 h-10 bg-brandgreen rounded-full flex items-center justify-center">
-                <span className="text-white font-bold text-lg">BK</span>
-              </div>
+              <img
+            src={logo}
+            alt="BharatKrishi Logo"
+            className="w-24 h-24 md:w-28 md:h-28 object-contain"
+              />
               <span className="font-bold text-xl text-brandgreen-dark">BharatKrishi</span>
             </div>
             <p className="text-gray-600 mb-4">
