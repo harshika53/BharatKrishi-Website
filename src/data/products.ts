@@ -39,7 +39,7 @@ export const allProducts = [
   
   // Grains
   { id: '33', name: 'Rice', price: 60, unit: 'kg', category: 'grains', image: 'https://plus.unsplash.com/premium_photo-1705516190542-8b3376798ea4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmljZSUyMHNhY2t8ZW58MHx8MHx8fDA%3Dhttps://plus.unsplash.com/premium_photo-1705516190542-8b3376798ea4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1686820740687-426a7b9b2043?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmljZSUyMHNhY2t8ZW58MHx8MHx8fDA%3D' },
-  { id: '34', name: 'Wheat', price: 40, unit: 'kg', category: 'grains', image: 'https://plus.unsplash.com/premium_photo-1726072357584-b613d4134334?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fHdoZWF0JTIwc2Fja3xlbnwwfHwwfHx8MA%3D%3D' },
+  { id: '34', name: 'Wheat', price: 40, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1663025293688-322e16b6cb66?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
   { id: '35', name: 'Oats', price: 90, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1614373532018-92a75430a0da?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
   { id: '36', name: 'Barley', price: 70, unit: 'kg', category: 'grains', image: 'https://plus.unsplash.com/premium_photo-1705404738459-c4cb25ad7933?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
   { id: '37', name: 'Ragi', price: 55, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1653580524515-77b19c176b88?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
@@ -63,9 +63,9 @@ export const allProducts = [
   { id: '53', name: 'Kali Dal', price: 170, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1615485500704-8e990f9027d8?w=600&auto=format&fit=crop' },
   
   // Spices
-  { id: '54', name: 'Turmeric', price: 200, unit: 'kg', category: 'spices', image: 'https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop' },
-  { id: '55', name: 'Cumin', price: 180, unit: 'kg', category: 'spices', image: 'https://images.unsplash.com/photo-1644565979488-eeef0a1561cc?w=600&auto=format&fit=crop' },
-  { id: '56', name: 'Cardamom', price: 800, unit: 'kg', category: 'spices', image: 'https://images.unsplash.com/photo-1615485020941-00153580744c?w=600&auto=format&fit=crop' },
+  { id: '54', name: 'Turmeric', price: 200, unit: 'kg', category: 'spices', image: 'https://i.pinimg.com/736x/1a/63/7f/1a637f36d14549465c4322155ff176da.jpg' },
+  { id: '55', name: 'Cumin', price: 180, unit: 'kg', category: 'spices', image: 'https://i.pinimg.com/736x/f5/55/05/f555050038b669a239515a28c3ec4834.jpg' },
+  { id: '56', name: 'Cardamom', price: 800, unit: 'kg', category: 'spices', image: 'https://i.pinimg.com/736x/48/df/82/48df82f300c3d7e04a41ffbd8bee1bec.jpg' },
   { id: '57', name: 'Black Pepper', price: 600, unit: 'kg', category: 'spices', image: 'https://images.unsplash.com/photo-1599235218184-48b57fef5c54?w=600&auto=format&fit=crop' },
   { id: '58', name: 'Red Chilli', price: 250, unit: 'kg', category: 'spices', image: 'https://images.unsplash.com/photo-1613758235402-745466bb7ead?w=600&auto=format&fit=crop' },
   { id: '59', name: 'Clove', price: 950, unit: 'kg', category: 'spices', image: 'https://images.unsplash.com/photo-1612758272966-921cd5246384?w=600&auto=format&fit=crop' },
