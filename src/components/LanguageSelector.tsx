@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
+import logo from '@/assets/logo.png';
 
 interface LanguageOption {
   name: string;
@@ -28,9 +29,11 @@ const LanguageSelector = ({ onSelectLanguage }: { onSelectLanguage: (code: strin
     <Card className="max-w-md mx-auto">
       <CardContent className="pt-6">
         <div className="flex justify-center mb-6">
-          <div className="w-16 h-16 bg-brandgreen rounded-full flex items-center justify-center">
-            <span className="text-white font-bold text-2xl">BK</span>
-          </div>
+          <img
+            src={logo}
+            alt="BharatKrishi Logo"
+            className="w-20 h-20 md:w-24 md:h-24 object-contain"
+          />
         </div>
         <h2 className="text-xl font-semibold text-center mb-6">Select Language</h2>
         <div className="space-y-3">

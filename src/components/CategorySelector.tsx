@@ -11,12 +11,12 @@ interface Category {
 }
 
 const categories: Category[] = [
-  { id: 'vegetables', name: 'Vegetables', icon: '/placeholder.svg' },
-  { id: 'fruits', name: 'Fruits', icon: '/placeholder.svg' },
-  { id: 'grains', name: 'Grains', icon: '/placeholder.svg' },
-  { id: 'pulses', name: 'Pulses', icon: '/placeholder.svg' },
-  { id: 'spices', name: 'Spices', icon: '/placeholder.svg' },
-  { id: 'dairy', name: 'Dairy', icon: '/placeholder.svg' },
+  { id: 'vegetables', name: 'Vegetables', icon: 'https://www.kuvingsusa.com/cdn/shop/articles/kuvings-blog-vegetables.png?v=1723582598' },
+  { id: 'grains', name: 'Fruits', icon: 'https://healthnewshub.org/wp-content/uploads/2022/10/Fruit-e1664894335635.jpg' },
+  { id: 'grains', name: 'Grains', icon: 'https://hips.hearstapps.com/hmg-prod/images/gettyimages-611609590-6627de2d8c0bb.jpg' },
+  { id: 'pulses', name: 'Pulses', icon: 'https://cdn.shopaccino.com/refresh/articles/dal-pulse-745535_l.jpg?v=531' },
+  { id: 'spices', name: 'Spices', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMW3gy7PwZty2UC1vDttn-CKF4XOV4khbbRQ&s' },
+  { id: 'dairy', name: 'Dairy', icon: 'https://www.bruker.com/en/applications/food-analysis-and-agriculture/food-quality/milk-and-dairy/_jcr_content/root/herostage/backgroundImageVPL.coreimg.82.1920.jpeg/1596451146895/milk-dairy.jpeg' },
 ];
 
 interface CategorySelectorProps {
