@@ -38,16 +38,16 @@ export const allProducts = [
   { id: '32', name: 'Jackfruit', price: 80, unit: 'kg', category: 'fruits', image: 'https://images.unsplash.com/photo-1655886169732-a49e75c96e6c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
   
   // Grains
-  { id: '33', name: 'Rice', price: 60, unit: 'kg', category: 'grains', image: 'https://i.pinimg.com/736x/d0/5d/b9/d05db98c905f7b03c731ba78308a3261.jpg' },
-  { id: '34', name: 'Wheat', price: 40, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1603063049910-f0c5dc257728?w=600&auto=format&fit=crop' },
-  { id: '35', name: 'Oats', price: 90, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1585996559731-a2986599cfd0?w=600&auto=format&fit=crop' },
-  { id: '36', name: 'Barley', price: 70, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1523577211656-8c6cc0c4ec46?w=600&auto=format&fit=crop' },
-  { id: '37', name: 'Ragi', price: 55, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1621955542498-046ca686c3c6?w=600&auto=format&fit=crop' },
-  { id: '38', name: 'Bajra', price: 45, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1603049489988-53ebe4cd1c36?w=600&auto=format&fit=crop' },
-  { id: '39', name: 'Jowar', price: 50, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1604848698039-d8d9968a90f9?w=600&auto=format&fit=crop' },
+  { id: '33', name: 'Rice', price: 60, unit: 'kg', category: 'grains', image: 'https://plus.unsplash.com/premium_photo-1705516190542-8b3376798ea4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmljZSUyMHNhY2t8ZW58MHx8MHx8fDA%3Dhttps://plus.unsplash.com/premium_photo-1705516190542-8b3376798ea4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1686820740687-426a7b9b2043?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmljZSUyMHNhY2t8ZW58MHx8MHx8fDA%3D' },
+  { id: '34', name: 'Wheat', price: 40, unit: 'kg', category: 'grains', image: 'https://plus.unsplash.com/premium_photo-1726072357584-b613d4134334?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fHdoZWF0JTIwc2Fja3xlbnwwfHwwfHx8MA%3D%3D' },
+  { id: '35', name: 'Oats', price: 90, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1614373532018-92a75430a0da?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: '36', name: 'Barley', price: 70, unit: 'kg', category: 'grains', image: 'https://plus.unsplash.com/premium_photo-1705404738459-c4cb25ad7933?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: '37', name: 'Ragi', price: 55, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1653580524515-77b19c176b88?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: '38', name: 'Bajra', price: 45, unit: 'kg', category: 'grains', image: 'https://media.istockphoto.com/id/2147580864/photo/bajra-or-pearl-millet-indian-mota-anaj.webp?a=1&b=1&s=612x612&w=0&k=20&c=Yo349KgI9tCq_dASEJtxGkox5gKZWHQ6I3uGEsKvliA=' },
+  { id: '39', name: 'Jowar', price: 50, unit: 'kg', category: 'grains', image: 'https://media.istockphoto.com/id/1262684430/photo/closeup-view-of-a-white-millet-jowar.webp?a=1&b=1&s=612x612&w=0&k=20&c=T8p-XIZUQaEOU9nwvwm8MCWTTiKrtWpB0gY-qk4A3HY=' },
   { id: '40', name: 'Maize', price: 35, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=600&auto=format&fit=crop' },
-  { id: '41', name: 'Daliya', price: 75, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1645115529022-e739ab13293c?w=600&auto=format&fit=crop' },
-  { id: '42', name: 'Bhagar', price: 80, unit: 'kg', category: 'grains', image: 'https://images.unsplash.com/photo-1621958443248-2c2b6b1a1cbc?w=600&auto=format&fit=crop' },
+  { id: '41', name: 'Daliya', price: 75, unit: 'kg', category: 'grains', image: 'https://i.pinimg.com/736x/4d/40/86/4d4086241ab4f27f8a86537314072ea0.jpg' },
+  { id: '42', name: 'Bhagar', price: 80, unit: 'kg', category: 'grains', image: 'https://5.imimg.com/data5/ANDROID/Default/2024/7/436481700/AB/RI/ME/10889368/product-jpeg-500x500.jpg' },
   
   // Pulses
   { id: '43', name: 'Toor Dal', price: 120, unit: 'kg', category: 'pulses', image: 'https://images.unsplash.com/photo-1612257997847-6eb011d44dc1?w=600&auto=format&fit=crop' },
