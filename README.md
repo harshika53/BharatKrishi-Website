@@ -1,4 +1,3 @@
-
 # 🌾 BharatKrishi
 
 **BharatKrishi** is a digital platform designed to bridge the gap between farmers and buyers across the globe. The platform aims to empower farmers, ensure fair pricing, and promote sustainable agricultural practices through a transparent and secure online marketplace.
@@ -61,3 +60,7 @@ By connecting farmers directly with buyers, we help improve farmers’ incomes a
 ## 🤝 Contribution
 
 Contributions are welcome! If you're passionate about agri-tech, open-source, or rural empowerment, feel free to fork the repo and submit a pull request.
+
+## Live Demo:
+### https://bharat-krishi.vercel.app/
+
