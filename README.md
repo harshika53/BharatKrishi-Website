@@ -54,5 +54,6 @@ By connecting farmers directly with buyers, we help improve farmers’ incomes a
 
 Contributions are welcome! If you're passionate about agri-tech, open-source, or rural empowerment, feel free to fork the repo and submit a pull request.
 
-## Live Demo: https://bharat-krishi.vercel.app/
+## Live Demo:
+### https://bharat-krishi.vercel.app/
 SIH '24 Hackathon Project | Direct Farm-to-Buyer Platform Empowering Indian Agriculture
