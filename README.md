@@ -56,4 +56,4 @@ Contributions are welcome! If you're passionate about agri-tech, open-source, or
 
 ## Live Demo:
 ### https://bharat-krishi.vercel.app/
-SIH '24 Hackathon Project | Direct Farm-to-Buyer Platform Empowering Indian Agriculture
+
